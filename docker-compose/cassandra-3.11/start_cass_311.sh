@@ -60,3 +60,5 @@ docker-compose up -d cassandra-3
 docker-compose up -d coordinator
 (docker-compose logs -f coordinator &) | grep -q "Finished starting bundles"
 docker-compose up -d dynamoapi
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=start_cass_311.sh

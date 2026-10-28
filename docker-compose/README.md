@@ -61,3 +61,5 @@ For more information see f.ex:
 * https://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1
 
 Unfortunately the "permanent" solution appears to be different across different MacOS versions!
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

@@ -43,3 +43,5 @@ echo "Running DynamoDB adapter $PROJTAG with Stargate coordinator $SGTAG and Cas
 docker-compose -f docker-compose-dev-mode.yml up -d coordinator
 (docker-compose logs -f coordinator &) | grep -q "Finished starting bundles"
 docker-compose -f docker-compose-dev-mode.yml up -d dynamoapi
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=start_cass_40_dev_mode.sh

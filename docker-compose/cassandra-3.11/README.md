@@ -54,3 +54,5 @@ ERROR: manifest for stargateio/coordinator-3_11:2.0.0-BETA-4-SNAPSHOT not found:
 
 you are trying to deploy a version that is neither publicly available (official release) nor built locally.
 
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md
